@@ -1,0 +1,7 @@
+C:\Users\jocel\source\repos\paqueteria\bin\Debug\paqueteria.exe.config
+C:\Users\jocel\source\repos\paqueteria\bin\Debug\paqueteria.exe
+C:\Users\jocel\source\repos\paqueteria\bin\Debug\paqueteria.pdb
+C:\Users\jocel\source\repos\paqueteria\obj\Debug\paqueteria.csprojAssemblyReference.cache
+C:\Users\jocel\source\repos\paqueteria\obj\Debug\paqueteria.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\paqueteria\obj\Debug\paqueteria.exe
+C:\Users\jocel\source\repos\paqueteria\obj\Debug\paqueteria.pdb

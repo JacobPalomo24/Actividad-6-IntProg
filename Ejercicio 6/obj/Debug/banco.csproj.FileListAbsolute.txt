@@ -1,0 +1,6 @@
+C:\Users\jocel\source\repos\banco\bin\Debug\banco.exe.config
+C:\Users\jocel\source\repos\banco\bin\Debug\banco.exe
+C:\Users\jocel\source\repos\banco\bin\Debug\banco.pdb
+C:\Users\jocel\source\repos\banco\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\banco\obj\Debug\banco.exe
+C:\Users\jocel\source\repos\banco\obj\Debug\banco.pdb

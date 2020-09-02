@@ -1,0 +1,6 @@
+C:\Users\jocel\source\repos\positive-or-negative\bin\Debug\positive-or-negative.exe.config
+C:\Users\jocel\source\repos\positive-or-negative\bin\Debug\positive-or-negative.exe
+C:\Users\jocel\source\repos\positive-or-negative\bin\Debug\positive-or-negative.pdb
+C:\Users\jocel\source\repos\positive-or-negative\obj\Debug\positive-or-negative.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\positive-or-negative\obj\Debug\positive-or-negative.exe
+C:\Users\jocel\source\repos\positive-or-negative\obj\Debug\positive-or-negative.pdb

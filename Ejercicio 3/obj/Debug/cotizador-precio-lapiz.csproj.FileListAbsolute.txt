@@ -1,0 +1,6 @@
+C:\Users\jocel\source\repos\cotizador-precio-lapiz\bin\Debug\cotizador-precio-lapiz.exe.config
+C:\Users\jocel\source\repos\cotizador-precio-lapiz\bin\Debug\cotizador-precio-lapiz.exe
+C:\Users\jocel\source\repos\cotizador-precio-lapiz\bin\Debug\cotizador-precio-lapiz.pdb
+C:\Users\jocel\source\repos\cotizador-precio-lapiz\obj\Debug\cotizador-precio-lapiz.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\cotizador-precio-lapiz\obj\Debug\cotizador-precio-lapiz.exe
+C:\Users\jocel\source\repos\cotizador-precio-lapiz\obj\Debug\cotizador-precio-lapiz.pdb

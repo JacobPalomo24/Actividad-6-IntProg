@@ -1,0 +1,6 @@
+C:\Users\jocel\source\repos\uva\bin\Debug\uva.exe.config
+C:\Users\jocel\source\repos\uva\bin\Debug\uva.exe
+C:\Users\jocel\source\repos\uva\bin\Debug\uva.pdb
+C:\Users\jocel\source\repos\uva\obj\Debug\uva.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\uva\obj\Debug\uva.exe
+C:\Users\jocel\source\repos\uva\obj\Debug\uva.pdb

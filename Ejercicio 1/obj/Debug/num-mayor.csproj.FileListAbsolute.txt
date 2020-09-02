@@ -1,0 +1,7 @@
+C:\Users\jocel\source\repos\num-mayor\bin\Debug\num-mayor.exe.config
+C:\Users\jocel\source\repos\num-mayor\bin\Debug\num-mayor.exe
+C:\Users\jocel\source\repos\num-mayor\bin\Debug\num-mayor.pdb
+C:\Users\jocel\source\repos\num-mayor\obj\Debug\num-mayor.csprojAssemblyReference.cache
+C:\Users\jocel\source\repos\num-mayor\obj\Debug\num-mayor.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\num-mayor\obj\Debug\num-mayor.exe
+C:\Users\jocel\source\repos\num-mayor\obj\Debug\num-mayor.pdb
